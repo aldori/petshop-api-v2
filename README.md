@@ -1,0 +1,1 @@
+The NODE project is a MBA (full-stack development) challenge. It's a Rest API, where I use the Express library and integrated with Postgres and MongoDB, used ORM sequelize for Postgres and mongoose for MongoDB this project was done in final challenge module 3.
